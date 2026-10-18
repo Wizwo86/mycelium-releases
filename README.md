@@ -1,2 +1,2 @@
 # mycelium-releases
-Release builds of Network Share (Mycelium) for auto-update
+Release builds of Mycelium
